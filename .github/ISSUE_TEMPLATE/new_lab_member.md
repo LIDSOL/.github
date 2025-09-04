@@ -18,18 +18,19 @@ Miembro del laboratorio a partir de [FECHA].
 
 - Obtener cuentas y accesos de recursos del laboratorio
   - [ ] Unirse al grupo de chat en Telegram
-  - [ ] Cuenta de Nextcloud (https://cloud.lidsol.unam.mx)
   - [ ] Crea tu cuenta de Github y recibir este issue asignado.
+  - [ ] (Opcional) Cuenta de Nextcloud para nuestros documentos compartidos (https://cloud.lidsol.unam.mx)
   - [ ] (Opcional) Acceso a repositorios de Github https://github.com/LIDSOL
   - [ ] (Opcional) Acceso a otros tipos de infraestructura (consultar en Telegram)
 
 - Unirse a las actividades del laboratorio
   - [ ] Presentarse en el grupo de chat. Platica tu carrera, semestre, intereses, etc.
-  - [ ] Elige las areas del laboratorio que te interesan
-    - [ ] Backend 
-    - [ ] Frontend
-    - [ ] Infra
-    - [ ] Academico y eventos
+  - [ ] Elige las areas del laboratorio que te interesan. Revisa los documentos siguientes y escoge 2 áreas que te interesen.
+    - [ ] Backend [Documento de Área Backend.pdf](https://github.com/user-attachments/files/22145022/Area.Backend.pdf)
+    - [ ] Frontend [Documento de Área Frontend.pdf](https://github.com/user-attachments/files/22145024/LIDSoL.-.Area.Frontend.pdf)
+    - [ ] Infra [Documento de Área Infraestructura.pdf](https://github.com/user-attachments/files/22145020/Area.Infraestructura.pdf)
+    - [ ] Academico y eventos [Documento de Área Academico y Eventos.pdf](https://github.com/user-attachments/files/22145028/academico-eventos.pdf)
+
 
   -  El laboratorio tiene dos tipos de reuniones semanales: Reuniones por area y la reunion general. 
     - [ ] Unete a la primera reunion general del laboratorio (https://meet.jit.si/LIDSoL_Colaboracion)
